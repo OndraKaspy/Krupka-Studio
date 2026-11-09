@@ -1,7 +1,7 @@
 # Krupka-Studio
 Naše skupina na 2ITB HEV a SWI
-###_**Náš projekt:**_
+### _Náš projekt_:
 
-Vlastní **hashovací systém** v javascriptu (modul), který bude umět **šifrovat** a **dešifrovat** text.
+Vlastní **hashovací systém** v javascriptu (modul), který bude umět **zašifrovat** a **dešifrovat** text.
 
 
