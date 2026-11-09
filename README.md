@@ -1,2 +1,8 @@
 # Krupka-Studio
-Krupka Studio skupina
+Naše skupina na 2ITB HEV a SWI
+
+_**Náš projekt:**_ 
+
+Vlastní hashovací systém v javascriptu, který bude umět zašifrovat a odšifrovat text.
+
+
