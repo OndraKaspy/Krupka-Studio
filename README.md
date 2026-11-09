@@ -1,5 +1,6 @@
 # Krupka-Studio
 Naše skupina na 2ITB HEV a SWI
+(Ondra Kašpar, Aleš Gabriel, Michal Wejmelka, Matěj Vlček - Neslyší, Denis Alinče, Šimon Provazník)
 
 _**Náš projekt:**_ 
 
