@@ -8,6 +8,8 @@ Naše skupina na 2ITB HEV a SWI
 Vlastní **šifrovací systém** v javascriptu (modul), který bude umět **zašifrovat** a **dešifrovat** text.
 
 Bude ještě umět: Zvolit si vlastní šifrovací typ (3 typy šifrování)
+
+### _DEV VĚTEV_:
                  
   
 
