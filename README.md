@@ -7,7 +7,10 @@ Naše skupina na 2ITB HEV a SWI
 
 Vlastní **šifrovací systém** v javascriptu (modul), který bude umět **zašifrovat** a **dešifrovat** text.
 
-Bude ještě umět: Zvolit si vlastní šifrovací typ (3 typy šifrování)
+--- Co chceme aby náš projekt uměl ---
+• Obousměrné šifrování a dešifrování libovolného textu
+• Zvolit si vlastní šifrovací typ (3 typy šifrování)
+• Podpora české diakritiky a speciálních znaků
                  
   
 
