@@ -9,7 +9,7 @@ Vlastní **šifrovací systém** v javascriptu (modul), který bude umět **zaš
 
 Bude ještě umět: Zvolit si vlastní šifrovací typ (3 typy šifrování)
 
-### _DEV VĚTEV_:
+### _TEST VĚTEV_:
                  
   
 
